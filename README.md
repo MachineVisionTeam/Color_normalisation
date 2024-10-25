@@ -1,17 +1,14 @@
-# Color_normalisation
-
 
 # Stain Normalization for PanNuke Dataset
 
-This repository contains a Python script for normalizing tissue stains in images from the PanNuke dataset. The normalization is performed using differnt stain normalization techniques on 19 different tissue types.
+This repository contains a Python script for normalizing tissue stains in images from the PanNuke dataset. The normalization is performed using different stain normalization techniques on 19 different tissue types.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Metrics](#metrics)
-- [License](#license)
-- [Contributing](#contributing)
+
 
 ## Installation
 
@@ -62,11 +59,3 @@ The following metrics are calculated for each normalized image:
 - **Structural Similarity Index (SSIM)**: Compares the structural similarity between original and normalized images.
 
 
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or would like to add features, please fork the repository and submit a pull request.
-
----
-
-Feel free to replace the placeholder values (like `yourusername` and `repository-name`) with your actual GitHub username and repository name. Let me know if you need any further assistance!
